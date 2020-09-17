@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94f66acfc2da03be7e8a3efe7c30b74c",
+    "revision": "92551166d7e67ec6a87a9d09b19bd9cc",
     "url": "/zombie-land/index.html"
   },
   {
-    "revision": "4138ce514ab93a9cd082",
+    "revision": "37f408984e5e9a0bf906",
     "url": "/zombie-land/static/css/main.ea03b0bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zombie-land/static/js/2.ef7b0cbc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4138ce514ab93a9cd082",
-    "url": "/zombie-land/static/js/main.110eb691.chunk.js"
+    "revision": "37f408984e5e9a0bf906",
+    "url": "/zombie-land/static/js/main.d3110997.chunk.js"
   },
   {
     "revision": "039b67e7aea461449326",
