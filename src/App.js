@@ -28,7 +28,7 @@ class App extends Component {
 
     return (
       <div className='App'>
-        <h1>ZoMBie RobbOTs!!! :)</h1>
+        <h1>ZoMBie LanD!!! :)</h1>
 
         <SearchBox
           placeholder='Search Monsters ...'
