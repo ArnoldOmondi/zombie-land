@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zombie-land/static/css/main.ea03b0bb.chunk.css",
+    "main.js": "/zombie-land/static/js/main.110eb691.chunk.js",
+    "main.js.map": "/zombie-land/static/js/main.110eb691.chunk.js.map",
+    "runtime-main.js": "/zombie-land/static/js/runtime-main.8356cb4d.js",
+    "runtime-main.js.map": "/zombie-land/static/js/runtime-main.8356cb4d.js.map",
+    "static/js/2.ef7b0cbc.chunk.js": "/zombie-land/static/js/2.ef7b0cbc.chunk.js",
+    "static/js/2.ef7b0cbc.chunk.js.map": "/zombie-land/static/js/2.ef7b0cbc.chunk.js.map",
+    "index.html": "/zombie-land/index.html",
+    "precache-manifest.94a9183c4b9854553b2d5a3747ceaaab.js": "/zombie-land/precache-manifest.94a9183c4b9854553b2d5a3747ceaaab.js",
+    "service-worker.js": "/zombie-land/service-worker.js",
+    "static/css/main.ea03b0bb.chunk.css.map": "/zombie-land/static/css/main.ea03b0bb.chunk.css.map",
+    "static/js/2.ef7b0cbc.chunk.js.LICENSE.txt": "/zombie-land/static/js/2.ef7b0cbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8356cb4d.js",
+    "static/js/2.ef7b0cbc.chunk.js",
+    "static/css/main.ea03b0bb.chunk.css",
+    "static/js/main.110eb691.chunk.js"
+  ]
+}
